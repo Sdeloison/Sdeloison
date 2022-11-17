@@ -5,7 +5,7 @@
          height="45"
          width="45" /><h1>I am Stephane Deloison</h1>
          
-<h3 align="center">Ton titre pro</h3>
+<h3 align="center">Azure Specialist</h3>
 
 <!-- Social icons section -->
 <p align="center">
